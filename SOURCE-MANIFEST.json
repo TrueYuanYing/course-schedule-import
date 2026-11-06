@@ -1,0 +1,390 @@
+{
+  "baseline": "IKO 0.3.11+94",
+  "recordDate": "2026-11-04",
+  "extractedOn": "2026-11-06",
+  "files": [
+    {
+      "source": "source/main/outputs/iko-public-beta/android/jwimport/src/main/assets/jwimport/parser.js",
+      "target": "src/main/assets/jwimport/parser.js",
+      "sourceSha256": "5099271483c94581a28f807088c50bd042b3b12ec2c3c4447a3c9bd7a6d1376e",
+      "publishedSha256": "22c6eb9b196607ed992955c893011f9bb5422822c991942dd060bca9aa91344d",
+      "adapted": true
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/android/jwimport/src/main/assets/jwimport/provider.js",
+      "target": "src/main/assets/jwimport/provider.js",
+      "sourceSha256": "1b69a7735656dc4a4f949a84b2a353fc45815c2c01696bde1b5b13a53c19bf30",
+      "publishedSha256": "93ba83d5d41514e1eec4942bb39f1ff647146c434031d9ef659dcf886c2f1294",
+      "adapted": true
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/android/jwimport/src/main/assets/jwimport/watch.js",
+      "target": "src/main/assets/jwimport/watch.js",
+      "sourceSha256": "522da3032a567b64489a8dbaf5c780d2aaff183b5be5834ab6c735cdfcfbbcb3",
+      "publishedSha256": "522da3032a567b64489a8dbaf5c780d2aaff183b5be5834ab6c735cdfcfbbcb3",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/android/jwimport/package.json",
+      "target": "package.json",
+      "sourceSha256": "a63fc68dec09f02e23bd2e68afc942b04d92527f59e0b3c4a4c0d9c515e61277",
+      "publishedSha256": "a63fc68dec09f02e23bd2e68afc942b04d92527f59e0b3c4a4c0d9c515e61277",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/android/jwimport/package-lock.json",
+      "target": "package-lock.json",
+      "sourceSha256": "e31d8ff9b5f2b3035d6746e1dff87ed7fc17c60e5fde9775f025013fef3c9a7d",
+      "publishedSha256": "be7571ebb0c16de9be64b32e516a989b8ad79824ec09350cbb1c51e499da4502",
+      "adapted": true
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/android/jwimport/NOTICE.md",
+      "target": "NOTICE.md",
+      "sourceSha256": "06b1db6f08885162b59fbb57c1aa864ade8964b995e0895f189b74260bea8ded",
+      "publishedSha256": "06b1db6f08885162b59fbb57c1aa864ade8964b995e0895f189b74260bea8ded",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/android/jwimport/tests/automatic86.test.cjs",
+      "target": "tests/automatic86.test.cjs",
+      "sourceSha256": "e76a15b7a68696fa91021995514a8485d14a1ce67418e6fdfad899bfa08c36f9",
+      "publishedSha256": "e76a15b7a68696fa91021995514a8485d14a1ce67418e6fdfad899bfa08c36f9",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/android/jwimport/tests/extensions86.test.cjs",
+      "target": "tests/extensions86.test.cjs",
+      "sourceSha256": "cc191fa77e546c45d5c2e98cb986bac2a316022c218fed832d72bb3e28d260cc",
+      "publishedSha256": "cc191fa77e546c45d5c2e98cb986bac2a316022c218fed832d72bb3e28d260cc",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/android/jwimport/tests/iko-formats-regression.test.cjs",
+      "target": "tests/iko-formats-regression.test.cjs",
+      "sourceSha256": "b4bed6c06d829ecc7343abc99a7255252aeecdb67be7d04c91cb4ed545c40652",
+      "publishedSha256": "b4bed6c06d829ecc7343abc99a7255252aeecdb67be7d04c91cb4ed545c40652",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/android/jwimport/tests/import.test.cjs",
+      "target": "tests/import.test.cjs",
+      "sourceSha256": "a7e1b6ce5fbea1fcf39f8bff06ba00b60b951ab3dffaa4f300a23ebdea09e026",
+      "publishedSha256": "e43191a11cbe2959401516cfdac861a02732dcb3c72e0a5f8bd4f296632d8bc5",
+      "adapted": true
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/android/jwimport/tests/nanruan76.test.cjs",
+      "target": "tests/nanruan76.test.cjs",
+      "sourceSha256": "191a6c0744c786105264c42f3de7bf81d1090d659594e085d8aafac475716625",
+      "publishedSha256": "191a6c0744c786105264c42f3de7bf81d1090d659594e085d8aafac475716625",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/android/jwimport/tests/periods_json97.test.cjs",
+      "target": "tests/periods_json97.test.cjs",
+      "sourceSha256": "8b22ad3ed9e093aac26a1545697890d94e27ed336169e86bcff341f0e81b0ecd",
+      "publishedSha256": "3dde28303e01db8f320294433a75ef12978f5bfac4f7fd142dce2e4ac38cf27f",
+      "adapted": true
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/android/jwimport/tests/periods87.test.cjs",
+      "target": "tests/periods87.test.cjs",
+      "sourceSha256": "52c8adb099d052596d191fca9bb5a5c58f7b97ddce6937581b8ada9207a25e3c",
+      "publishedSha256": "52c8adb099d052596d191fca9bb5a5c58f7b97ddce6937581b8ada9207a25e3c",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/android/jwimport/tests/periods97.test.cjs",
+      "target": "tests/periods97.test.cjs",
+      "sourceSha256": "c757c5922fd3f391f71722fed8dbe3c37433341d4c91b04aa5739583365a923b",
+      "publishedSha256": "c11d327e0335f559700187a1db9678a79a5a5d4b930526d56c2ea77631668e06",
+      "adapted": true
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/android/jwimport/tests/provider.test.cjs",
+      "target": "tests/provider.test.cjs",
+      "sourceSha256": "6f1399711f379a77027dacd0309c6458790f81a92d6ff03484c80fa2c3ac5ed7",
+      "publishedSha256": "e9c642e358332c91e684c12757b162149a3a17ee8af839a35c2cd264239147bb",
+      "adapted": true
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/android/jwimport/tests/timetable83.test.cjs",
+      "target": "tests/timetable83.test.cjs",
+      "sourceSha256": "78d2b277c0e9c49dceebdf24a729b94cc4d17c6c15136e83638d1d5c36b8c916",
+      "publishedSha256": "78d2b277c0e9c49dceebdf24a729b94cc4d17c6c15136e83638d1d5c36b8c916",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/android/jwimport/tests/timetable84.test.cjs",
+      "target": "tests/timetable84.test.cjs",
+      "sourceSha256": "dfd2588f9bc08a914abb881f769941515ae18969399d18e31be00c2fdabfa568",
+      "publishedSha256": "dfd2588f9bc08a914abb881f769941515ae18969399d18e31be00c2fdabfa568",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/android/jwimport/tests/whu.test.cjs",
+      "target": "tests/whu.test.cjs",
+      "sourceSha256": "522881af3be3f1be9e978fd73972b3cb4fcaa2a1be518554dbd93fd5b87f398b",
+      "publishedSha256": "522881af3be3f1be9e978fd73972b3cb4fcaa2a1be518554dbd93fd5b87f398b",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/course/academic_calendar.dart",
+      "target": "reference/flutter/lib/services/course/academic_calendar.dart",
+      "sourceSha256": "7e852adffdb93f606b8e3d09e07785a46d14c53169c4f465c621d624bb498faa",
+      "publishedSha256": "7e852adffdb93f606b8e3d09e07785a46d14c53169c4f465c621d624bb498faa",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/course/academic_import_result.dart",
+      "target": "reference/flutter/lib/services/course/academic_import_result.dart",
+      "sourceSha256": "8bb764f8b0ada20d2e531968dcf644f756f1dbbaa9c04ecc6732c03dded7ede1",
+      "publishedSha256": "8bb764f8b0ada20d2e531968dcf644f756f1dbbaa9c04ecc6732c03dded7ede1",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/course/course_image_color_detector.dart",
+      "target": "reference/flutter/lib/services/course/course_image_color_detector.dart",
+      "sourceSha256": "d477424981e5be9f0ec07d731c31d8202aeb5d7606b8417f7ec4dc3c090a9370",
+      "publishedSha256": "d477424981e5be9f0ec07d731c31d8202aeb5d7606b8417f7ec4dc3c090a9370",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/course/course_image_layout.dart",
+      "target": "reference/flutter/lib/services/course/course_image_layout.dart",
+      "sourceSha256": "f3bd7f9478faf74852f9a9d276e16d26587d960be200c2a9d765d60e504cf28c",
+      "publishedSha256": "f3bd7f9478faf74852f9a9d276e16d26587d960be200c2a9d765d60e504cf28c",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/course/course_image_parser.dart",
+      "target": "reference/flutter/lib/services/course/course_image_parser.dart",
+      "sourceSha256": "2d0e599718b7c8588d6198c85eb27b3299f65ce4e83e0259844ec64dd09e0afa",
+      "publishedSha256": "2d0e599718b7c8588d6198c85eb27b3299f65ce4e83e0259844ec64dd09e0afa",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/course/course_import_data.dart",
+      "target": "reference/flutter/lib/services/course/course_import_data.dart",
+      "sourceSha256": "4a4e9f8337b07d79e0c7f07f524ee115ea50c7640a75d9288ecc7face8193d80",
+      "publishedSha256": "4a4e9f8337b07d79e0c7f07f524ee115ea50c7640a75d9288ecc7face8193d80",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/course/course_page_reader.dart",
+      "target": "reference/flutter/lib/services/course/course_page_reader.dart",
+      "sourceSha256": "d8a3d854b9871ed56f83fd7388579961be82ad91bc3903d5d825429e37e93362",
+      "publishedSha256": "d8a3d854b9871ed56f83fd7388579961be82ad91bc3903d5d825429e37e93362",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/course/course_periods.dart",
+      "target": "reference/flutter/lib/services/course/course_periods.dart",
+      "sourceSha256": "8aad95f9c7ca1465a1b22050988097f4f57319c862d4877ee56beffcd578f16d",
+      "publishedSha256": "2464d7fd3e2ab903f9c803cd91e877c2b3526f075742ed0c32fbc38364062850",
+      "adapted": true
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/course/course_store.dart",
+      "target": "reference/flutter/lib/services/course/course_store.dart",
+      "sourceSha256": "2ad3b029a4a80cfe4d3300f503360688935624ef7cae94e6e412846467f06f4e",
+      "publishedSha256": "ab01f0cd4da1d6fd1fb07cdf6e89c317ea391ea66f871ade01f147e71605b0b6",
+      "adapted": true
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/course/jwxt_adapter.dart",
+      "target": "reference/flutter/lib/services/course/jwxt_adapter.dart",
+      "sourceSha256": "124e646ffc408597f773c0545a36fd344be556b872eaac9951b2c79d8635f956",
+      "publishedSha256": "124e646ffc408597f773c0545a36fd344be556b872eaac9951b2c79d8635f956",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/course/jwxt_adapter_registry.dart",
+      "target": "reference/flutter/lib/services/course/jwxt_adapter_registry.dart",
+      "sourceSha256": "dff95d055415e8683c7dd8973f1bdc20da3c6a4b02336f4049d6aee62ec1c868",
+      "publishedSha256": "dff95d055415e8683c7dd8973f1bdc20da3c6a4b02336f4049d6aee62ec1c868",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/course/jwxt_html_parser.dart",
+      "target": "reference/flutter/lib/services/course/jwxt_html_parser.dart",
+      "sourceSha256": "f5bc5c297ac7d43e09fc16ef7c2b6e546cbd78d1e6ca0c286293f4449ab61c3f",
+      "publishedSha256": "f5bc5c297ac7d43e09fc16ef7c2b6e546cbd78d1e6ca0c286293f4449ab61c3f",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/course/jwxt_school_directory.dart",
+      "target": "reference/flutter/lib/services/course/jwxt_school_directory.dart",
+      "sourceSha256": "f7505fb68924ba9c5a66eec990d2f31a9b899d92e655cea752d0ca09b61ae22b",
+      "publishedSha256": "f7505fb68924ba9c5a66eec990d2f31a9b899d92e655cea752d0ca09b61ae22b",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/course/jwxt_school_ranking.dart",
+      "target": "reference/flutter/lib/services/course/jwxt_school_ranking.dart",
+      "sourceSha256": "e3bf9f4254f285c08f330277477607b91f7cf26313736b80719ca95677922df6",
+      "publishedSha256": "e3bf9f4254f285c08f330277477607b91f7cf26313736b80719ca95677922df6",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/course/jwxt_system_family.dart",
+      "target": "reference/flutter/lib/services/course/jwxt_system_family.dart",
+      "sourceSha256": "a7da04e036848db88b14cbabe5a178d64fc334b37bb3113b327cef34be35ecd0",
+      "publishedSha256": "a7da04e036848db88b14cbabe5a178d64fc334b37bb3113b327cef34be35ecd0",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/course/qiangzhi_adapter.dart",
+      "target": "reference/flutter/lib/services/course/qiangzhi_adapter.dart",
+      "sourceSha256": "a2b85222e21e3d752180fce542c4ea3798da5d4c9f7bf6c59c5ea41f27e3426d",
+      "publishedSha256": "a2b85222e21e3d752180fce542c4ea3798da5d4c9f7bf6c59c5ea41f27e3426d",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/course/school_login_entry.dart",
+      "target": "reference/flutter/lib/services/course/school_login_entry.dart",
+      "sourceSha256": "47c63f96fd32c1308c2bf5b44800c8af63fde71c3dd7387382837d9e5f150cf7",
+      "publishedSha256": "47c63f96fd32c1308c2bf5b44800c8af63fde71c3dd7387382837d9e5f150cf7",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/course/whu_graduate_adapter.dart",
+      "target": "reference/flutter/lib/services/course/whu_graduate_adapter.dart",
+      "sourceSha256": "139744f73beb04592b1727e7dad763b2d29f03c523c4ca8e80b9a48e4183a42a",
+      "publishedSha256": "139744f73beb04592b1727e7dad763b2d29f03c523c4ca8e80b9a48e4183a42a",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/course/zhengfang_adapter.dart",
+      "target": "reference/flutter/lib/services/course/zhengfang_adapter.dart",
+      "sourceSha256": "5f9c66322c0559b95e650889d257542d50c6c4251f15ea5e51414fe7a57f8627",
+      "publishedSha256": "5f9c66322c0559b95e650889d257542d50c6c4251f15ea5e51414fe7a57f8627",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/features/schedule/course_import_preview.dart",
+      "target": "reference/flutter/lib/features/schedule/course_import_preview.dart",
+      "sourceSha256": "43a654821de3e052a118383530d3c5b5fd47ab2012280dad81d391cf0845d254",
+      "publishedSha256": "ed45b1e83c02d890adce4632272e7bb368c971a1df400af0dec549d6589130a3",
+      "adapted": true
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/features/schedule/course_import_screen.dart",
+      "target": "reference/flutter/lib/features/schedule/course_import_screen.dart",
+      "sourceSha256": "1a43d955a1764cfc99296ae00562547585c0b01a6afc52f4356eac6188e62509",
+      "publishedSha256": "1a43d955a1764cfc99296ae00562547585c0b01a6afc52f4356eac6188e62509",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/features/schedule/course_period_editor.dart",
+      "target": "reference/flutter/lib/features/schedule/course_period_editor.dart",
+      "sourceSha256": "beb2b2f0e12d00e7950484fcf2c88be847286c730ee818b994edf4d4ea17ffaf",
+      "publishedSha256": "beb2b2f0e12d00e7950484fcf2c88be847286c730ee818b994edf4d4ea17ffaf",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/features/schedule/course_week_table.dart",
+      "target": "reference/flutter/lib/features/schedule/course_week_table.dart",
+      "sourceSha256": "4825cc9dd64c31a5a48f19198f67cbcc63c595f24a48022668c4bbb1058ecf63",
+      "publishedSha256": "6907a7c5b4ff5287e6109f6fcf29e51fe21e11709addeb1c2535d0600e4013c3",
+      "adapted": true
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/features/schedule/schedule_screen.dart",
+      "target": "reference/flutter/lib/features/schedule/schedule_screen.dart",
+      "sourceSha256": "42f14ddd685ba95a7663b4d951a9355f935b5b4baa1608d3aec2912d3837e1b0",
+      "publishedSha256": "e90d14740b24daba09877591177ff07d73fbc342e668cc41bc9a69d2ba5da066",
+      "adapted": true
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/features/schedule/school_badge.dart",
+      "target": "reference/flutter/lib/features/schedule/school_badge.dart",
+      "sourceSha256": "a6769e6013b2edfd813fbe2ddf951f18973a8846ad2a3cb0049fb0fdba09b9fc",
+      "publishedSha256": "a6769e6013b2edfd813fbe2ddf951f18973a8846ad2a3cb0049fb0fdba09b9fc",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/data/models/course.dart",
+      "target": "reference/flutter/lib/data/models/course.dart",
+      "sourceSha256": "96fcf84f7659128a60ccc8a93bc5cec307bad5f9f81f361fdac60a13f9ce5fe5",
+      "publishedSha256": "96fcf84f7659128a60ccc8a93bc5cec307bad5f9f81f361fdac60a13f9ce5fe5",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/android/jwimport/src/main/java/dev/campus/jwimport/AcademicImport.java",
+      "target": "reference/android/AcademicImport.java",
+      "sourceSha256": "672389dca39788f614709bf545ac745ec9e2fa0ae5843a07902158e9a5192805",
+      "publishedSha256": "672389dca39788f614709bf545ac745ec9e2fa0ae5843a07902158e9a5192805",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/android/jwimport/src/main/java/dev/campus/jwimport/AcademicImportActivity.java",
+      "target": "reference/android/AcademicImportActivity.java",
+      "sourceSha256": "251eebd16424b814d264adb7c9582ba96ed0eae1b61f08413158da1a3f80cd82",
+      "publishedSha256": "251eebd16424b814d264adb7c9582ba96ed0eae1b61f08413158da1a3f80cd82",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/android/jwimport/src/main/java/dev/campus/jwimport/SchoolCookieReset.java",
+      "target": "reference/android/SchoolCookieReset.java",
+      "sourceSha256": "426a64351eab2300ef004568a2cfe67e36409e8fdba08defa22fb281c086c14b",
+      "publishedSha256": "426a64351eab2300ef004568a2cfe67e36409e8fdba08defa22fb281c086c14b",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/android/jwimport/src/main/java/dev/campus/jwimport/SchoolEntryRecovery.java",
+      "target": "reference/android/SchoolEntryRecovery.java",
+      "sourceSha256": "d68cfd085e09d8ca793a389c2f230195900b2f94a6bb771f2fa2ee425308dc14",
+      "publishedSha256": "d68cfd085e09d8ca793a389c2f230195900b2f94a6bb771f2fa2ee425308dc14",
+      "adapted": false
+    }
+  ],
+  "excludedFiles": {
+    "reference/flutter/lib/services/course/jwxt_school_entries.dart": "School directory database distribution rights not established",
+    "reference/flutter/lib/services/course/jwxt_school_spellings.dart": "Derived school directory data excluded with original catalogue",
+    "reference/flutter/lib/services/course/school_badge_assets.dart": "School badge mapping excluded with trademark assets"
+  },
+  "generatedFiles": [
+    {
+      "target": ".gitattributes",
+      "sha256": "ba760de3d447e0b3f71a54df3e3360231b05dd98b4584b92b1e792a53eefdd0d"
+    },
+    {
+      "target": ".gitignore",
+      "sha256": "a8a1ac48c52460c848ecb12ed507fe6212b8fecb149c17c7eb2f037ebafd40c8"
+    },
+    {
+      "target": "CONTRIBUTING.md",
+      "sha256": "70229ef64c017ab35611eaabf4ff90af9dbbdbe3bdc4ee6cbffddd8477b979e1"
+    },
+    {
+      "target": "LICENSE",
+      "sha256": "0ce17ff75376a5e69f909e91b4b145c36ce3848e95156d764a5a37a0d4a6ffdc"
+    },
+    {
+      "target": "README.md",
+      "sha256": "b80c35404c4b9acb1385a9713291e051d9c4167388df1c6290dea20488dd6e3d"
+    },
+    {
+      "target": "SECURITY.md",
+      "sha256": "e00ee6595322461749c1030aa9697f40e34e9826480c2c34927907a7f77f3b36"
+    },
+    {
+      "target": "THIRD-PARTY.md",
+      "sha256": "d0d23e4682279631170f7e34e63f1dd8e22b06401198eeb427390b85a3acfa17"
+    },
+    {
+      "target": "VALIDATION.md",
+      "sha256": "dab041aa4626aa7fe8457a3d658fb12ea53af510939e18eb765d049170346d27"
+    },
+    {
+      "target": "docs/ARCHITECTURE.md",
+      "sha256": "fdca685151c1cbca4246a998644ed9d331c151a4b444827dc13001369a68a0a4"
+    },
+    {
+      "target": "example/parse.cjs",
+      "sha256": "50569113a8b3abb9b85080339d227dc7d89b584953acce440b46e292b1f76f19"
+    }
+  ]
+}
